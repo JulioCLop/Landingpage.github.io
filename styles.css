@@ -1,0 +1,50 @@
+body,html{
+  width: 100%;
+  height: 100%;
+  font-family: 'Allan', cursive;
+  background: url(dan-counsell-6IJQRYlWz0U-unsplash.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1{
+ font-size: 3rem;
+  color: #FF312E;
+}
+
+.btn-secondary{
+  color: white;
+  background: white;
+}
+
+.btn-xl{
+  padding: .5rem 1.5rem;
+  color: #FF312E ;
+  font-size: 24px;
+  text-transform: capitalize;
+
+
+}
+.btn-xl:hover{
+background-color: #f4f4f4;
+border-width: 4px;
+}
+
+hr{
+  border-color: #FF312E;
+  border-width: 3px;
+  max-width: 65px ;
+}
+.buffer{
+  height: 5px
+}
+.container{
+  margin-left: 10%;
+}
+p{
+  color:#FF312E ;
+  font-size: 23px;
+ 
+}

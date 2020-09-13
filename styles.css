@@ -11,29 +11,30 @@ body,html{
 
 h1{
  font-size: 3rem;
-  color: #FF312E;
+  color: #cf7500;
 }
 
-.btn-secondary{
-  color: white;
-  background: white;
-}
+.btn-secondary{ 
+  background: #cf7500aa;
+} 
+
 
 .btn-xl{
   padding: .5rem 1.5rem;
-  color: #FF312E ;
+  color: #cf7500;
   font-size: 24px;
   text-transform: capitalize;
 
 
 }
 .btn-xl:hover{
-background-color: #f4f4f4;
-border-width: 4px;
+background-color: rgba(0, 0, 0, 0.345);
+border-width: 2px;
+
 }
 
 hr{
-  border-color: #FF312E;
+  border-color: #cf7500 ;
   border-width: 3px;
   max-width: 65px ;
 }
@@ -44,7 +45,16 @@ hr{
   margin-left: 10%;
 }
 p{
-  color:#FF312E ;
+  color:#cf7500;
   font-size: 23px;
  
+}
+a{
+  color: black;
+  list-style: none;
+  
+}
+a:hover{
+  color:#cf7500 ;
+  list-style: none;
 }
